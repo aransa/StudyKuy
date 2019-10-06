@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/icon_home_blue_24px"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_classroom"
+        android:icon="@drawable/icon_classroom_blue_24px"
+        android:title="@string/title_schedule" />
+
+    <item
+        android:id="@+id/navigation_scan"
+        android:icon="@drawable/icon_qr_blue_24px"
+        android:title="@string/title_scan" />
+
+    <item
+        android:id="@+id/navigation_wallet"
+        android:icon="@drawable/icon_money_blue_24px"
+        android:title="@string/title_wallet" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/icon_user_blue_24px"
+        android:title="@string/title_profile" />
+
+</menu>
